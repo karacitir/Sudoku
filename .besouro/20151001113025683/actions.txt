@@ -2,3 +2,5 @@ FileOpenedAction 1443688226114 TestSudokuVerifier.java 216 1 1 0
 RefactoringAction 1443688235140 TestSudokuVerifier.java ADD void test()/2 METHOD
 RefactoringAction 1443688239658 TestSudokuVerifier.java RENAME test()/2=>void test2() METHOD
 EditAction 1443688239853 TestSudokuVerifier.java 293 2 2 0
+FileOpenedAction 1443692147720 Game.java 699 5 6 0
+FileOpenedAction 1443692658672 TestTennisGame.java 2162 12 37 9
