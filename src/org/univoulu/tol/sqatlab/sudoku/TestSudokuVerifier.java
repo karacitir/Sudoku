@@ -10,9 +10,5 @@ public class TestSudokuVerifier {
 	public void test() {
 		fail("Not yet implemented");
 	}
-	
-	@Test
-	public void test2() {
-		fail("Not yet implemented");
-	}
+
 }
